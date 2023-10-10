@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ofalk
-- 👀 I’m interested in Linux, Open Source, Customer Success
-- 🌱 I’m currently learning how to write Slack Bots
+- 👀 I’m interested in Open Source, GIT, GitLab, Customer Success
+- 🌱 I’m currently digging into how AI may assist me in various situations
 - 💞️ I’m looking to collaborate with everyone!
 - 📫 How to reach me: https://about.me/ofalk
 
